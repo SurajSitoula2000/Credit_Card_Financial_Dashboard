@@ -108,4 +108,5 @@ The dataset includes multiple tables:
 
 ## 👨‍💻 Author
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sitoula/) \
-Suraj Sitoula Aspiring Data Analyst | Skilled in SQL, Python, Power BI, Tableau, Machine Learning!
+Suraj Sitoula 
+Aspiring Data Analyst | Skilled in SQL, Python, Power BI, Tableau, Machine Learning!
