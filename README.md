@@ -107,6 +107,5 @@ The dataset includes multiple tables:
 - Deploy using Power BI Service
 
 ## 👨‍💻 Author
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sitoula/)
-Suraj Sitoula
-Aspiring Data Analyst | Skilled in SQL, Python, Power BI, Tableau, Machine Learning!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sitoula/) \
+Suraj Sitoula Aspiring Data Analyst | Skilled in SQL, Python, Power BI, Tableau, Machine Learning!
