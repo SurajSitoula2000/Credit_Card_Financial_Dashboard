@@ -76,35 +76,35 @@ The dataset includes multiple tables:
 - Weekly Revenue Trend
 
 ## 🛠️ Tools & Technologies Used
-1. Power BI – Data visualization & dashboard creation
-2. Power Query – Data transformation & cleaning
-3. DAX (Data Analysis Expressions) – Calculated measures & KPIs
+- Power BI – Data visualization & dashboard creation
+- Power Query – Data transformation & cleaning
+- DAX (Data Analysis Expressions) – Calculated measures & KPIs
 
 ## 📌 Key Features
-1. Interactive filters (Quarter, Gender, Card Type, Income Group)
-2. Drill-down analysis
-3. Dynamic KPIs
-4. Clean and user-friendly dashboard design
-5. Business-focused insights
+- Interactive filters (Quarter, Gender, Card Type, Income Group)
+- Drill-down analysis
+- Dynamic KPIs
+- Clean and user-friendly dashboard design
+- Business-focused insights
 
 ## 📈 Business Use Cases
-1. Identify high-value customers
-2. Improve marketing strategies
-3. Optimize credit card offerings
-4. Track customer spending behavior
-5. Support data-driven decision-making
+- Identify high-value customers
+- Improve marketing strategies
+- Optimize credit card offerings
+- Track customer spending behavior
+- Support data-driven decision-making
 
 ## 🚀 How to Use
-1. Download the .pbix file from this repository
-2. Open in Power BI Desktop
-3. Interact with filters and visuals to explore insights
+- Download the .pbix file from this repository
+- Open in Power BI Desktop
+- Interact with filters and visuals to explore insights
 
 
 ## 💡 Future Improvements
-1. Add predictive analysis (ML models)
-2. Integrate real-time data
-3. Enhance dashboard with advanced KPIs
-4. Deploy using Power BI Service
+- Add predictive analysis (ML models)
+- Integrate real-time data
+- Enhance dashboard with advanced KPIs
+- Deploy using Power BI Service
 
 ## 👨‍💻 Author
 Suraj Sitoula
